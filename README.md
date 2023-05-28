@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=F77728&width=450&lines=𝗛𝗲𝗹𝗹𝗼+welcome+to+my+profile+𝗜+am+Chinnu+💖">
 </p> 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChinnuXd&theme=gotham)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChinnuXd&theme=gotham) 
 
 
     
