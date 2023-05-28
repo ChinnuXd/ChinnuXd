@@ -4,10 +4,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=F77728&width=450&lines=𝗛𝗲𝗹𝗹𝗼+welcome+to+my+profile+𝗜+am+Chinnu+💖">
 </p> 
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChinnuXd&theme=gotham) 
-
-
     
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 <p align="center">
